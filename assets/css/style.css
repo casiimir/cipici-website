@@ -36,3 +36,28 @@ h2 {
     text-transform: lowercase;
     color: white;
 }
+
+.button:hover {
+    background-color: white;
+    border: 2px solid white;
+    color: #984299;
+    opacity: 0.8
+}
+
+.contact__form-el--submit:hover {
+    background-color:  #984299 !important;
+    border: 2px solid white !important;
+    color: white !important;
+
+}
+
+.nav-link {
+    color:white;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.nav-link:hover {
+    border-bottom: 1px solid #984299;
+    transition: all 1s;
+}
