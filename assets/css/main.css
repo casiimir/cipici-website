@@ -444,6 +444,17 @@ textarea {
     text-transform: uppercase
 }
 
+.logo-bottom {    
+    color: #585858 !important;
+    font-size: 34px;
+    font-weight: 800;
+    text-transform: uppercase
+}
+
+.logo:hover, .logo-bottom:hover {
+    color: #984299 !important;
+}
+
 .transform-link {
     font-weight: 700
 }
