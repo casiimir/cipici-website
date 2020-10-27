@@ -884,7 +884,7 @@ input[type="button"]:focus {
 }
 
 .introduction::before {
-    content: "JM";
+    content: "cipici";
     position: absolute;
     top: 50%;
     left: 50%;
